@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil Varia</h1>
-<h3 align="center">2nd Year Computer Science Student at Loughborough University Passing First Year With a 2:1</h3>
+<h3 align="center">Computer Science & AI Student at Lougborough University, Currently On Industrial Placement at Airbus Defence and Space</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilvaria&label=Profile%20views&color=0e75b6&style=flat" alt="neilvaria" /> </p>
 
