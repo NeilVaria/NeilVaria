@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilvaria&label=Profile%20views&color=0e75b6&style=flat" alt="neilvaria" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [www.neilvaria.com](www.neilvaria.com)
+- 👨‍💻 All of my projects are available at [www.neilvaria.com](https://www.neilvaria.com)
 
 - 📫 How to reach me **neilvaria@gmail.com**
 
